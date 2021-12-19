@@ -1,4 +1,4 @@
-==================================================BIO==================================================
+================================================BIO================================================
 
 Hello world! My name is Nicholas Halterman, and I cyber geek when it comes to programming, networking, ethical hacking, and developing. I am currently still a
 fairly new developer.
